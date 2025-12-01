@@ -1,6 +1,6 @@
 # 🚀 Crypto-eKAN
 
-**Crypto-eKAN** is an intelligent ensemble forecasting system for cryptocurrency price prediction powered by machine learning, deep learning, Monte Carlo simulation, and a stacked **Kernel Activation Network (KAN)**. This repository blends classical models with neural architectures into a meta-learning pipeline designed to capture market dynamics and forecast asset prices like XRP and BTC.
+**Crypto-eKAN** is an intelligent ensemble forecasting system for cryptocurrency price prediction powered by machine learning, deep learning, Monte Carlo simulation, and a stacked **Kolmogorov Arnold Network (KAN)**. This repository blends classical models with neural architectures into a meta-learning pipeline designed to capture market dynamics and forecast asset prices like XRP and BTC.
 
 ---
 
